@@ -13,10 +13,14 @@
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
     "pinia": "^2.3.0",
+    "pinia-plugin-persistedstate": "^4.2.0",
     "vue": "^3.5.13",
     "vue-dompurify-html": "^5.2.0",
+    "vue-image-zoomer": "^2.4.3",
     "vue-loading-overlay": "^6.0.6",
-    "vue-router": "^4.5.0"
+    "vue-router": "^4.5.0",
+    "vue-star-rating": "^1.7.0",
+    "vue-toastification": "^2.0.0-rc.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
